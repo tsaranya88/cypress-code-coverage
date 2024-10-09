@@ -21,3 +21,14 @@ Build the Application
 ```bash
 npm run build
 ```
+Run functional/e2e test
+
+Debug Mode
+```bash
+npx cypress open
+```
+
+Headless mode
+```bash
+npx cypress run
+```
